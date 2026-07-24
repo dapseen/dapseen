@@ -14,9 +14,6 @@ I build platforms that help engineering teams deploy faster, operate reliably, a
 - 🧰 **Built an internal developer platform** that reduced developer cognitive load and enabled self-service infrastructure
 - ☸️ **Migrated production Kubernetes workloads from Kops to Amazon EKS**, improving scalability, governance, and operational efficiency
 - 📈 **Supported infrastructure processing more than 30 million payment transactions per month**
-- 🚀 **Reduced production execution latency from 9 seconds to 3 seconds**
-- 🔄 Built event-driven systems using **Kafka, SQS, Redis Streams, Lambda, Celery, and Python**
-- 🔭 Introduced stronger observability, SLOs, on-call practices, and incident-response playbooks
 - 🛡️ Experienced in fintech infrastructure, cloud security, AML/KYC, and compliance-aware engineering
 
 ## What I Work On 🛠️
